@@ -13,5 +13,6 @@ public class MainApp {
 		
 		System.out.println("Absolute path of created TestBean instance: " + testBean.getClass().getName());
 	}
+	
 
 }
